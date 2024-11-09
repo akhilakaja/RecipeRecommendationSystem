@@ -1,0 +1,23 @@
+.banner {
+    background-image: url('https://as2.ftcdn.net/v2/jpg/02/64/00/51/1000_F_264005197_kz8P2s6Z6RMw3wUtvURy9z9B2i50m0IN.jpg'); 
+    background-size:cover;
+    background-position: center;
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+.banner-content h1 {
+    font-size: 3rem;
+    margin: 0 0 10px 0;
+    font-weight: bold;
+}
+
+.banner-content p {
+    font-size: 1.5rem;
+    margin-top:none;
+}
